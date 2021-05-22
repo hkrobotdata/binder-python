@@ -19,7 +19,10 @@ https://mybinder.org/v2/gh/hkrobotdata/binder-python/HEAD
 
 
 https://mybinder.org/v2/gh/hkrobotdata/binder-python/main
+https://mybinder.org/v2/gh/hkrobotdata/binder-python/main?urlpath=lab
 
+(Still 3.7)
+https://mybinder.org/v2/gh/hkrobotdata/binder-python/3.6
 https://mybinder.org/v2/gh/hkrobotdata/binder-python/3.6?urlpath=lab
 
 
