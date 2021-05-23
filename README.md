@@ -33,3 +33,9 @@ https://mybinder.org/v2/gh/hkrobotdata/binder-python/3.6
 https://mybinder.org/v2/gh/hkrobotdata/binder-python/3.6?urlpath=lab
 
 
+
+
+In JupyterHub,（New > Terminal） python hello.py。
+
+
+
